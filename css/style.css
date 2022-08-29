@@ -1,0 +1,76 @@
+body {
+     
+	  font-family: arial, helvetica, sans-serif;
+	  font-size: 14 px;
+
+}
+
+#HIRam {
+	margin: 0 400px;
+    width: 1070px;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	font-size: 2em;
+}
+
+
+
+#sobremi{
+	margin: 0 400px;
+	width: 1050px;
+	display: block;
+    padding: 0px 10px;
+	color: #FFFFFF;
+	background-color: #0D5C9E;
+	font-size: 1.8em;
+}
+
+#contacto{
+	margin: 0 400px;
+	width: 1050px;
+	display: block;
+    padding: 0px 10px;
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 1.8em;
+}
+
+#acade{
+	margin: 0 400px;
+	width: 1050px;
+	display: block;
+    padding: 0px 10px;
+	color: #FFFFFF;
+	background-color: #0D5C9E;
+	font-size: 1.8em;
+}
+
+#lengua{
+	margin: 0 400px;
+	width: 1050px;
+	display: block;
+    padding: 0px 10px;
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 1.8em;
+}
+
+#hb{
+	margin: 0 400px;
+	width: 1050px;
+	display: block;
+    padding: 0px 10px;
+	color: #FFFFFF;
+	background-color: #0D5C9E;
+	font-size: 1.8em;
+}
+
+#cursos{
+	margin: 0 400px;
+	width: 1050px;
+	display: block;
+    padding: 0px 10px;
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 1.8em;
+}
